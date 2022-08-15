@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angierika9
-- 👀 I’m interested in ...lesaning about A.I. Art
+- 👀 I’m interested in ...learning about stable diffusion Art
 - 🌱 I’m currently learning ...learning to use A.I. Art 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...angierika9@gmail.com
